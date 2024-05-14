@@ -5,6 +5,6 @@
 - 😄 Pronouns: ela/dela
 
 <div>
-  <a href ="mailto:contato@yankassilva.tech"><img height-"180cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" terget_blank">     </a>
+  <a href ="mailto:yankassilva@gmail.com"><img height-"180cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" terget_blank">     </a>
 </div>
 
